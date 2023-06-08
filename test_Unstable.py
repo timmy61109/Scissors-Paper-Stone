@@ -1,6 +1,3 @@
-conda config --add channels conda-forge
-conda config --set channel_priority strict
-conda install ipywidgets
 import random
 import ipywidgets as widgets
 import time
