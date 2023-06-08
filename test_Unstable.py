@@ -1,5 +1,6 @@
 import random
-pip install "git+https://github.com/jupyter-widgets/ipywidgets.git"
+jupyter nbextension enable -py widgetsnbextension
+pip install ipywidgets
 import ipywidgets as widgets
 import time
 from IPython.display import display, Javascript
