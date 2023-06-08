@@ -1,4 +1,5 @@
 import random
+pip install ipywidgets
 import ipywidgets as widgets
 import time
 from IPython.display import display, Javascript
