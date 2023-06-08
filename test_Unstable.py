@@ -1,3 +1,4 @@
+pip! install ipywidgets
 import random
 import ipywidgets as widgets
 import time
