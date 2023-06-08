@@ -1,4 +1,4 @@
-$ pip install ipywidgets
+conda install -c conda-forge ipywidgets
 import random
 import ipywidgets as widgets
 import time
