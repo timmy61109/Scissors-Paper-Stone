@@ -11,4 +11,5 @@ jobs:
     
    steps:
      - name: Run Unstable.py
-       run: python -m pytest 'Unstable.py'
+       run: |
+         python -m pytest 'Unstable.py'
