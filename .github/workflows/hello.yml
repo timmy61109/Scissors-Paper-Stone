@@ -16,4 +16,4 @@ jobs:
          
      - name: Run Unstable.py
        run: |
-         python -m pytest 'main'/'Unstable.py'
+         python -m pytest 'test_Unstable.py'
