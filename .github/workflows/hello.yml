@@ -5,8 +5,6 @@ on:
     branches:
      - 'main'
 
-pip install pytest
-
 jobs:
  hello:  
    runs-on: ubuntu-latest
