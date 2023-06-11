@@ -1,1 +1,1 @@
-pip install pytest
+pip3 install pytest
