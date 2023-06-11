@@ -16,4 +16,4 @@ jobs:
          
      - name: Run Unstable.py
        run: |
-         python -m pytest 'Scissors-Paper-Stone/Unstable.py'
+         python -m pytest 'Unstable.py'
