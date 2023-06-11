@@ -1,5 +1,4 @@
 import random
-jupyter nbextension enable -py widgetsnbextension
 pip install ipywidgets
 import ipywidgets as widgets
 import time
